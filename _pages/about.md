@@ -28,7 +28,7 @@ My research interest includes continual learning and large language model. Welco
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/EMNLP2023-fig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <ins>Towards anytime fine‑tuning: Continually pre‑trained language models with hypernetwork prompt<ins> (**EMNLP 2023**)
@@ -40,7 +40,7 @@ My research interest includes continual learning and large language model. Welco
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2022</div><img src='images/MM-fig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <ins>Self-supervised text erasing with controllable image synthesis<ins> (**MM 2022**)
@@ -53,7 +53,7 @@ My research interest includes continual learning and large language model. Welco
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2021</div><img src='images/SIGIR21-fig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <ins>xLightFM: Extremely memory-efficient factorization machine<ins> (**SIGIR 2021**)
@@ -77,10 +77,6 @@ My research interest includes continual learning and large language model. Welco
 - *2020.09 - now*, PhD student, School of Computer Science and Technology, University of Science and Technology of China.
 - *2016.09 - 2020.07*, Undergraduate, School of Computer Science and Technology, University of Science and Technology of China.
 
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 <!-- - *2021.07 - 2022.05*, [Alimama Smart Creative and AI Application Team](https://github.com/alimama-creative), Alibaba, Beijing. -->
