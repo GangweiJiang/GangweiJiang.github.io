@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Gangwei Jiang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/homepage.jpg"
   bio              : "PhD student in Computer Science"
   location         : "Anhui, China"
   employer         :
